@@ -1,0 +1,22 @@
+tr:nth-child(even) {
+  background-color: #f2f2f2; /* Light gray for even rows */
+}
+
+tr:nth-child(odd) {
+  background-color: #ffffff; /* White for odd rows */
+}
+
+tr:hover {
+  background-color: blanchedalmond;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+td:last-child {
+  text-align: center;
+  width: 10%; /* Adjust the width as needed */
+}

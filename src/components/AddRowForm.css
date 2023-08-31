@@ -1,0 +1,15 @@
+/* Style for the form */
+.add-row-form {
+  //margin: 10px 0; /* Add vertical margin */
+}
+
+/* Style for the form elements */
+.add-row-form input {
+  margin: 5px; /* Add vertical margin */
+  padding: 5px; /* Add padding for spacing within inputs */
+}
+
+.add-row-form button {
+  margin-top: 5px; /* Add margin only to the top of the button */
+  padding: 5px 10px; /* Add padding for spacing within button */
+}
