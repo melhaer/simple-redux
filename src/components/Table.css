@@ -4,7 +4,7 @@
 }
 
 .errorMessage {
-    margin: auto;
+    margin: 40px auto 0;
     font-size: 24px;
     width: 400px;
     background-color: red;
